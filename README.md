@@ -1,0 +1,2 @@
+# graduationDesignPlatformFront
+基于mpvue 的微信小程序开发，内容是毕业设计平台
